@@ -1,6 +1,6 @@
 ## Image: 中正紀念堂.jpg
 
-!["中正紀念堂.jpg"](images\v1\中正紀念堂.jpg)
+!["中正紀念堂.jpg"](images/v1/中正紀念堂.jpg)
 
 ### Question: 請問圖片中是台灣哪一個景點
 
