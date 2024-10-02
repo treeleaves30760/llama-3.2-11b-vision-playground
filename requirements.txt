@@ -1,0 +1,10 @@
+pillow
+requests
+transformers
+accelerate
+PyQt6
+python-dotenv
+--find-links https://download.pytorch.org/whl/cu121
+torch
+torchvision
+torchaudio
