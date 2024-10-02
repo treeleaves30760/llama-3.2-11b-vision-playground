@@ -3,6 +3,7 @@ requests
 transformers
 accelerate
 PyQt6
+tdqm
 python-dotenv
 --find-links https://download.pytorch.org/whl/cu121
 torch
