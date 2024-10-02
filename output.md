@@ -1,5 +1,7 @@
 ## Image: 中正紀念堂.jpg
 
+!["中正紀念堂.jpg"](images\v1\中正紀念堂.jpg)
+
 ### Question: 請問圖片中是台灣哪一個景點
 
 Answer: <|begin_of_text|><|start_header_id|>user<|end_header_id|>
@@ -19,6 +21,8 @@ Answer: <|begin_of_text|><|start_header_id|>user<|end_header_id|>
 ---
 
 ## Image: 八卦山大佛.jpg
+
+!["八卦山大佛.jpg"](images\v1\八卦山大佛.jpg)
 
 ### Question: 請問圖片中是台灣哪一個景點
 
@@ -40,6 +44,8 @@ Answer: <|begin_of_text|><|start_header_id|>user<|end_header_id|>
 
 ## Image: 台中國家歌劇院.jpg
 
+!["台中國家歌劇院.jpg"](images\v1\台中國家歌劇院.jpg)
+
 ### Question: 請問圖片中是台灣哪一個景點
 
 Answer: <|begin_of_text|><|start_header_id|>user<|end_header_id|>
@@ -59,6 +65,8 @@ Answer: <|begin_of_text|><|start_header_id|>user<|end_header_id|>
 ---
 
 ## Image: 台北101.jpg
+
+!["台北101.jpg"](images\v1\台北101.jpg)
 
 ### Question: 請問圖片中是台灣哪一個景點
 
@@ -80,6 +88,8 @@ Answer: <|begin_of_text|><|start_header_id|>user<|end_header_id|>
 
 ## Image: 台南赤崁樓.jpg
 
+!["台南赤崁樓.jpg"](images\v1\台南赤崁樓.jpg)
+
 ### Question: 請問圖片中是台灣哪一個景點
 
 Answer: <|begin_of_text|><|start_header_id|>user<|end_header_id|>
@@ -99,6 +109,8 @@ Answer: <|begin_of_text|><|start_header_id|>user<|end_header_id|>
 ---
 
 ## Image: 國父紀念館.jpg
+
+!["國父紀念館.jpg"](images\v1\國父紀念館.jpg)
 
 ### Question: 請問圖片中是台灣哪一個景點
 
@@ -120,6 +132,8 @@ Answer: <|begin_of_text|><|start_header_id|>user<|end_header_id|>
 
 ## Image: 奇美博物館.jpg
 
+!["奇美博物館.jpg"](images\v1\奇美博物館.jpg)
+
 ### Question: 請問圖片中是台灣哪一個景點
 
 Answer: <|begin_of_text|><|start_header_id|>user<|end_header_id|>
@@ -139,6 +153,8 @@ Answer: <|begin_of_text|><|start_header_id|>user<|end_header_id|>
 ---
 
 ## Image: 安平古堡.jpg
+
+!["安平古堡.jpg"](images\v1\安平古堡.jpg)
 
 ### Question: 請問圖片中是台灣哪一個景點
 
@@ -160,6 +176,8 @@ Answer: <|begin_of_text|><|start_header_id|>user<|end_header_id|>
 
 ## Image: 故宮.jpg
 
+!["故宮.jpg"](images\v1\故宮.jpg)
+
 ### Question: 請問圖片中是台灣哪一個景點
 
 Answer: <|begin_of_text|><|start_header_id|>user<|end_header_id|>
@@ -179,6 +197,8 @@ Answer: <|begin_of_text|><|start_header_id|>user<|end_header_id|>
 ---
 
 ## Image: 總統府.jpg
+
+!["總統府.jpg"](images\v1\總統府.jpg)
 
 ### Question: 請問圖片中是台灣哪一個景點
 
