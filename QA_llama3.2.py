@@ -61,7 +61,7 @@ with open(output_file, "w", encoding="utf-8") as f:
             
             f.write(f"## Image: {image_file}\n\n")
             
-            f.write(f'![{image_file}]({image_path})\n\n')
+            f.write(f'![{image_file}](images/v1/{image_file})\n\n')
             
             for question in questions:
                 answer = analyze_image(image_path, question)
