@@ -51,7 +51,7 @@ questions = [
 ]
 
 # Output file
-output_file = "output.md"
+output_file = "output_llama3.2.md"
 
 # Process all images
 with open(output_file, "w", encoding="utf-8") as f:
